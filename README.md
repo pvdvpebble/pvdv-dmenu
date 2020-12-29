@@ -3,6 +3,7 @@
 * Center
 * Border
 * CaseInsensitive
+* reject no match
 
 # Original Dmenu Readme
 
