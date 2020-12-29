@@ -1,0 +1,6 @@
+*.o
+*.diff
+patch*
+patches/
+dmenu
+config.h
