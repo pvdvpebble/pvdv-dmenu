@@ -2,6 +2,7 @@
 * Fuzzymatch
 * Center
 * Border
+* CaseInsensitive
 
 # Original Dmenu Readme
 
