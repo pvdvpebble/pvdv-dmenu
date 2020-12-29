@@ -1,3 +1,10 @@
+# Patches
+* Fuzzymatch
+* Center
+* Border
+
+# Original Dmenu Readme
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
